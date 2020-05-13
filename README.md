@@ -36,3 +36,7 @@ The use of the **Bitcoin** & its resources **COMPLETE RESPONSIBILITY of the END-
 * ``cd bitcoinhack-bot``
 * ``php cfg.php``
 * ``php bot.php``
+
+<p>
+<img width="35%" src="IMG_20200513_234857.jpg"/>
+</p>
