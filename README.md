@@ -11,3 +11,7 @@
 * ``pkg install git``
 * ``pkg install php``
 * ``git clone https://github.com/rixon-cochi/bitcoinhack-bot.git``
+* ``ls``
+* ``cd bitcoinhack-bot``
+* ``php cfg.php``
+* ``php bot.php``
