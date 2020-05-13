@@ -1,6 +1,6 @@
 # BITCOIN-HACK-BOT
 
-  Tech Cochi
+## code by team xwolf
 
 # BITCOIN LOGIN WEBSITE
   
