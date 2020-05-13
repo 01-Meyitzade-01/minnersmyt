@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-      Website Bitcoins Mining With Advanced Functionality**
+      Website Bitcoins Mining With Advanced Functionality
 </p> 
 <p align="center">
-     Termux | Website | Mining Bot 
+     Bitcoin | Mining | Bot 
 </p>
 
 ## DISCLAIMER
