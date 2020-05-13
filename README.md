@@ -10,6 +10,10 @@
      Bitcoin | Mining | Bot 
 </p>
 
+<p align="center">
+<a href="https://img.shields.io/badge/youtube-TECH--COCHI-green?style=for-the-badge&logo=youtube)]https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q" ></a>
+</p>
+
 ## DISCLAIMER
 
 <p align="center">
