@@ -10,9 +10,9 @@
      Bitcoin | Mining | Bot 
 </p>
 
-<p align="center">
-<a href="https://img.shields.io/badge/youtube-TECH--COCHI-green?style=for-the-badge&logo=youtube)]https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q" ></a>
-</p>
+
+
+
 
 ## DISCLAIMER
 
@@ -31,6 +31,8 @@ The use of the **Bitcoin** & its resources **COMPLETE RESPONSIBILITY of the END-
   
 [![](https://img.shields.io/badge/BTC_WEBSITE-LOGING--SITE-blue?style=for-the-badge&logo=rapidamining)](https://rapidamining.com/r/69904)
 
+
+[![](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
 * ``apt update``
 * ``apt upgrade``
 * ``pkg install git``
