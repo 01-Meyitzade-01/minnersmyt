@@ -27,16 +27,16 @@ The use of the **Bitcoin** & its resources **COMPLETE RESPONSIBILITY of the END-
 
 # BITCOIN-HACK-BOT
 
-## code by team xwolf
+## code by team xwolf😘
 
-# BITCOIN LOGIN WEBSITE
+# BITCOIN LOGIN WEBSITE🌎
   
 [![](https://img.shields.io/badge/BTC_WEBSITE-LOGING--SITE-blue?style=for-the-badge&logo=rapidamining)](https://rapidamining.com/r/69904)
 
-# SUBSCRIBE MY YOUTUBE CHANNEL
+# SUBSCRIBE MY YOUTUBE CHANNEL ✔️
 [![](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
 
-# INSTALLATION COMMANDS
+# INSTALLATION COMMANDS👇
 
 * ``apt update``
 * ``apt upgrade``
